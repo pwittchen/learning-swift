@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/piotr/Development/swift/swift-projects/private/learning-swift/tasks/02-randomizer/sources/.build/debug/Randomizer.o/Randomizer/master.swiftdeps"
+  },
+  "/home/piotr/Development/swift/swift-projects/private/learning-swift/tasks/02-randomizer/sources/main.swift": {
+    "dependencies": "/home/piotr/Development/swift/swift-projects/private/learning-swift/tasks/02-randomizer/sources/.build/debug/Randomizer.o/Randomizer/main.d",
+    "object": "/home/piotr/Development/swift/swift-projects/private/learning-swift/tasks/02-randomizer/sources/.build/debug/Randomizer.o/main.swift.o",
+    "swiftmodule": "/home/piotr/Development/swift/swift-projects/private/learning-swift/tasks/02-randomizer/sources/.build/debug/Randomizer.o/Randomizer/main~partial.swiftmodule",
+    "swift-dependencies": "/home/piotr/Development/swift/swift-projects/private/learning-swift/tasks/02-randomizer/sources/.build/debug/Randomizer.o/Randomizer/main.swiftdeps"
+  }
+}

@@ -1,0 +1,5 @@
+version: "Swift version 2.2-dev (LLVM 46be9ff861, Clang 4deb154edc, Swift 778f82939c)"
+options: "30b5ccffe704c537e4637774e2abb80d"
+build_time: [502917796, 30808000]
+inputs:
+  "/home/piotr/Development/swift/swift-projects/private/learning-swift/tasks/02-randomizer/sources/main.swift": [502915442, 0]
