@@ -12,7 +12,7 @@ $ wget https://swift.org/builds/ubuntu1404/swift-2.2-SNAPSHOT-2015-12-01-b/swift
 $ tar -xzvf *.gz
 ```
 
-open your .bashrc or .zshrc file and add the `bin/` directory of Swift to the `$PATH` system variable:
+open your `.bashrc` or `.zshrc` file in `$HOME` directory and add the `bin/` directory of Swift to the `$PATH` system variable as follows:
 
 ```
 export PATH=your/path/to/swift-2.2-SNAPSHOT-2015-12-01-b-ubuntu14.04/usr/bin/
