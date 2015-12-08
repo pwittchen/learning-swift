@@ -61,6 +61,11 @@ and play with the console:
 >4 random()
 ```
 
+Sample programs
+---------------
+
+Directory named `tasks/` contains sample programs. Separate directories with programs contains scripts named `build.sh`, `run.sh` and `clean.sh`. These scripts are responsible for building and running the programs as well as cleaning files generated during build. Instead of running scripts, we can do the same thing manually from terminal.
+
 References
 ----------
 - [Source code of swift](https://github.com/apple/swift)
