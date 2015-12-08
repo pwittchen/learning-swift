@@ -54,7 +54,7 @@ swift
 
 and play with the console:
 
-```
+```swift
 >1 print("Hello, Swift!")
 >2 41 + 1
 >3 import Glibc
