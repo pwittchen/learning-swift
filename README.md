@@ -2,6 +2,65 @@ learning-swift
 ==============
 Repository created in order to learn some basics of Swift programming language
 
+Installing Swift on Linux
+-------------------------
+
+```bash
+# get snapshot of Swift
+$ wget https://swift.org/builds/ubuntu1404/swift-2.2-SNAPSHOT-2015-12-01-b/swift-2.2-SNAPSHOT-2015-12-01-b-ubuntu14.04.tar.gz
+# unpack downloaded snapshot
+$ tar -xzvf *.gz
+```
+
+open your .bashrc or .zshrc file and add the `bin/` directory of Swift to the `$PATH` system variable:
+
+```
+export PATH=your/path/to/swift-2.2-SNAPSHOT-2015-12-01-b-ubuntu14.04/usr/bin/
+```
+
+Type:
+
+```
+$ sudo apt-get update
+```
+
+and then:
+
+```
+$ sudo apt-get install git cmake ninja-build clang uuid-dev libicu-dev icu-devtools libbsd-dev libedit-dev libxml2-dev libsqlite3-dev swig libpython-dev libncurses5-dev pkg-config
+```
+
+After that, close terminal, open it again ant type:
+
+```
+$ swift --version
+```
+
+You should get output like that:
+
+```
+Swift version 2.2-dev (LLVM 46be9ff861, Clang 4deb154edc, Swift 778f82939c)
+Target: x86_64-unknown-linux-gnu
+```
+
+Swift console
+-------------
+
+In terminal, you can type:
+
+```
+swift
+```
+
+and play with the console:
+
+```
+>1 print("Hello, Swift!")
+>2 41 + 1
+>3 import Glibc
+>4 random()
+```
+
 References
 ----------
 - [Source code of swift](https://github.com/apple/swift)
