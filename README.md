@@ -72,3 +72,4 @@ References
 - [Using Swift as general purpose scripting language](http://www.strathweb.com/2014/06/using-swift-general-purpose-scripting-language/)
 - [Getting started with Swift](https://swift.org/getting-started/)
 - [Getting started with Swift on Linux](https://www.twilio.com/blog/2015/12/getting-started-with-swift-on-linux.html)
+- [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education)
