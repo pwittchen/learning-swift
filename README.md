@@ -64,7 +64,7 @@ and play with the console:
 Sample programs
 ---------------
 
-Directory named `tasks/` contains sample programs. Separate directories with programs contains scripts named `build.sh`, `run.sh` and `clean.sh`. These scripts are responsible for building and running the programs as well as cleaning files generated during build. Instead of running scripts, we can do the same thing manually from terminal.
+Directory named `tasks/` contains sample programs. Separate directories with programs contains `Makefile`, which can be used for compiling and running the programs.
 
 References
 ----------
