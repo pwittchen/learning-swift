@@ -64,7 +64,7 @@ and play with the console:
 Sample programs
 ---------------
 
-Directory named `tasks/` contains sample programs. Separate directories with programs contains `Makefile`, which can be used for compiling and running the programs.
+Directory named `tasks/` contains sample programs. Separate directories with programs contains `Makefile`, which can be used for compiling and running the programs. To compile and run programs, go to a specific directory and just type `make`.
 
 References
 ----------
