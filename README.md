@@ -43,6 +43,11 @@ Swift version 2.2-dev (LLVM 46be9ff861, Clang 4deb154edc, Swift 778f82939c)
 Target: x86_64-unknown-linux-gnu
 ```
 
+Swift on OS X
+-------------
+
+Swift on OS X is available out of the box.
+
 Swift console
 -------------
 
