@@ -78,3 +78,8 @@ References
 - [Getting started with Swift](https://swift.org/getting-started/)
 - [Getting started with Swift on Linux](https://www.twilio.com/blog/2015/12/getting-started-with-swift-on-linux.html)
 - [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education)
+- [The Swift Programming Language (by Apple)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)
+- [Getting started with iOS development with Swift](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+- [XCode tutorial](https://codewithchris.com/xcode-tutorial/)
+- [Video tutorial - how to make an iOS app](https://www.youtube.com/watch?v=5b91dFhZz0g)
+- [Video tutorial - XCode tutorial for absolute beginners](https://www.youtube.com/watch?v=xsohzfdeDng)
