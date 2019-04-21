@@ -7,7 +7,7 @@ Installing Swift on Linux
 
 ```bash
 # get snapshot of Swift
-$ wget https://swift.org/builds/ubuntu1404/swift-2.2-SNAPSHOT-2015-12-01-b/swift-2.2-SNAPSHOT-2015-12-01-b-ubuntu14.04.tar.gz
+$ wget https://swift.org/builds/swift-5.0-release/ubuntu1804/swift-5.0-RELEASE/swift-5.0-RELEASE-ubuntu18.04.tar.gz
 # unpack downloaded snapshot
 $ tar -xzvf *.gz
 ```
@@ -73,6 +73,7 @@ Directory named `tasks/` contains sample programs. Separate directories with pro
 
 References
 ----------
+- [Download page](https://swift.org/download/)
 - [Source code of swift](https://github.com/apple/swift)
 - [Using Swift as general purpose scripting language](http://www.strathweb.com/2014/06/using-swift-general-purpose-scripting-language/)
 - [Getting started with Swift](https://swift.org/getting-started/)
